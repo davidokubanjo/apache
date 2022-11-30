@@ -1,5 +1,4 @@
-touch /home/bukmatic/da_man.txt
-
+echo HELLO
 
 
 
