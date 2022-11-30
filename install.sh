@@ -1,6 +1,6 @@
 touch /home/bukmatic/da_man.txt
 
-!#/bin/bash
+
 
 
 #yum install httpd -y
